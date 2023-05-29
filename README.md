@@ -1,4 +1,4 @@
-### Welcome to my GitHub profile 👋
+### Hey there wanderer, welcome to my GitHub profile 👋
 
 - 🔭 I’m currently working on in-house web3 project, helping other companies develop their solutions and spreading coding knowledge
 - 🌱 I’m currently learning Kubernetes
