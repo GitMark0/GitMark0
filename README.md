@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on in-house web3 project and spreading coding knowledge
+- 🔭 I’m currently working on in-house web3 project, helping other companies develop their solutions and spreading coding knowledge
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on emerging technology projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marko-ivankovi%C4%87-274923201/)
