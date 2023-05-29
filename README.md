@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on in-house web3 project
+- 🔭 I’m currently working on in-house web3 project and spreading coding knowledge
 - 🌱 I’m currently learning Kubernetes
 - 👯 I’m looking to collaborate on emerging technology projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marko-ivankovi%C4%87-274923201/)
