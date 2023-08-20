@@ -9,9 +9,8 @@
 <!-- [![GitMark0's GitHub stats](https://github-readme-stats.vercel.app/api?username=GitMark0&show_icons=true&theme=radical&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
-![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/languages.svg)
-![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/languages-light.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/languages-dark.svg#gh-dark-mode-only)
 
-
-![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/overview-light.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/GitMark0/github-stats/master/generated/overview-dark.svg#gh-dark-mode-only)
