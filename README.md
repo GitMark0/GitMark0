@@ -1,8 +1,8 @@
 ### Hey there wanderer, welcome to my GitHub profile 👋
 
-- 🔭 I’m currently working on in-house web3 project and helping others develop their solutions
-- 🌱 I’m currently researching some Rust magic 🦀
-- 👯 I’m looking to collaborate on emerging technology projects
+- 🔭 Working on in-house web3 project and helping others develop their solutions
+- 🌱 Researching some Rust magic 🦀
+- 👯 Looking to collaborate on emerging technology projects
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/marko-ivankovi%C4%87-274923201/)
 - ⚡ Fun fact: Elephants walk on their back legs when nobody is watching
 
